@@ -1,2 +1,2 @@
-# Firstrepo
-This is the first ever repo of user.
+# Firstrepository
+This is the first ever repository of user.
