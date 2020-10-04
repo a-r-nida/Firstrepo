@@ -1,3 +1,2 @@
 # Firstrepo
-Please add a disc
-Updated desc
+This is the first ever repo of user.
